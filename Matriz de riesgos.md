@@ -1,11 +1,22 @@
 MATRIZ DE RIESGOS - HERBAMED
-Leyenda de Evaluación:
-Probabilidad: Alta (A) - Media (M) - Baja (B)
+Leyenda de Evaluación
+Probabilidad:
 
-Impacto: Crítico (C) - Alto (A) - Medio (M) - Bajo (B)
+Alta (A)
+Media (M)
+Baja (B)
+Impacto:
 
-Prioridad: P1 (Crítica) - P2 (Alta) - P3 (Media) - P4 (Baja)
+Crítico (C)
+Alto (A)
+Medio (M)
+Bajo (B)
+Prioridad:
 
+P1 (Crítica)
+P2 (Alta)
+P3 (Media)
+P4 (Baja)
 MATRIZ PRINCIPAL DE RIESGOS
 #	Riesgo	Categoría	Prob.	Impacto	Prioridad	Mitigación	Responsable
 1	Falta de financiamiento adicional	Financiero	A	C	P1	• Plan de implementación por fases
@@ -38,19 +49,7 @@ MATRIZ PRINCIPAL DE RIESGOS
 10	Alta rotación del equipo técnico	Recursos Humanos	M	M	P3	• Plan de carrera y desarrollo
 • Cultura de trabajo flexible
 • Participación en resultados	Director de RH
-ANÁLISIS MATRICIAL VISUAL
-text
-IMPACTO
-  ^
-C | #1 #2          (Riesgos Críticos - Atención Inmediata)
-  | 
-A | #3 #4 #5 #6 #7 (Riesgos Altos - Planificación Activa)
-  |
-M | #8 #9 #10      (Riesgos Medios - Monitoreo Continuo)
-  |
-B |                 (Riesgos Bajos - Aceptar/Mitigar)
-  +-----------------> PROBABILIDAD
-    B   M   A
+
 PLAN DE ACCIÓN POR PRIORIDAD
 P1 - RIESGOS CRÍTICOS (Acción Inmediata)
 #1 Falta de financiamiento
@@ -58,53 +57,38 @@ P1 - RIESGOS CRÍTICOS (Acción Inmediata)
 Acciones:
 
 Buscar 3 inversionistas potenciales antes del mes 2
-
 Preparar campaña Kickstarter con meta de $200,000 MXN
-
 Desarrollar plan de negocio para concursos de emprendimiento
-
 #2 Información no verificada
 
 Acciones:
 
 Firmar convenio con facultad de medicina UNAM en mes 1
-
 Diseñar protocolo de validación en 2 semanas
-
 Desarrollar sistema de banderas de contenido reportado
-
 P2 - RIESGOS ALTOS (Planificación Activa)
 #3 Baja adopción de usuarios
 
 Acciones:
 
 Programa referidos: "Trae un amigo" con beneficios
-
 Alianza con 5 influencers de wellness mexicano
-
 Contenido viral sobre plantas poco conocidas
-
 #4 Escalabilidad técnica
 
 Acciones:
 
 Contrato con AWS con auto-scaling
-
 Pruebas de carga con 10,000 usuarios simultáneos
-
 Backup de base de datos cada 12 horas
-
 P3 - RIESGOS MEDIOS (Monitoreo Continuo)
 #8 Calidad de contenido
 
 Acciones:
 
 Metricas de engagement por artículo
-
 Encuestas de satisfacción mensuales
-
 Programa de recompensas a colaboradores destacados
-
 INDICADORES DE RIESGO CLAVE (KRIs)
 Riesgo	KRI	Límite	Acción Disparadora
 Financiero	Cash flow mensual	< $50,000 MXN	Activar plan de contingencia financiera
@@ -119,14 +103,11 @@ Riesgo	Estado	Última Revisión	Próxima Revisión	Tendencia
 #4 Escalabilidad	 Controlado	[Fecha]	[Fecha+60d]	 Mejorando
 CONCLUSIÓN DE LA MATRIZ DE RIESGOS
 Riesgos Totales Identificados: 10
+
 Distribución:
 
 Críticos (P1): 2 (20%)
-
 Altos (P2): 5 (50%)
-
 Medios (P3): 3 (30%)
-
 Bajos (P4): 0 (0%)
-
-Estado General: 🟡 MODERADO - El proyecto es viable pero requiere gestión activa de riesgos, especialmente en áreas financieras y de contenido.
+Estado General:  MODERADO - El proyecto es viable pero requiere gestión activa de riesgos, especialmente en áreas financieras y de contenido.
